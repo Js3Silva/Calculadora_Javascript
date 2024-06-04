@@ -16,7 +16,7 @@ Este projeto é uma calculadora simples desenvolvida em JavaScript. A calculador
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone https://github.comJs3Silva/Calculadora_Javascript.git
+   git clone https://github.com/Js3Silva/Calculadora_Javascript.git
 2. Navegue até o diretório do projeto:
    cd Calculadora_Javascript
 3. Abra o arquivo index.html no seu navegador preferido.
